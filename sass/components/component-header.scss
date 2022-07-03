@@ -1,0 +1,29 @@
+.home {
+    background-color: $bg-green;
+    height: 5rem;
+    width: auto;
+}
+
+.logo-home {
+    height: 32px;
+    width: 32px;
+}
+
+ul li {
+    list-style-type: none;
+}
+
+.list-1-home {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.list-2-home {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+}
+
+.separement-nav {
+    flex: 1;
+}

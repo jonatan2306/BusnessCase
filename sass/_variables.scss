@@ -1,0 +1,53 @@
+// ************************************************************
+// FONTS
+// ************************************************************
+
+// OPEN SANS Light 300 Italic
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,300&display=swap');
+$OP-l-300-I:'Open Sans', sans-serif;
+
+// OPEN SANS Regular 400
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+$OP-reg-400: 'Open Sans', sans-serif;
+
+// OPEN SANS Semi Bold 600
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap');
+$OP-sm-b-600: 'Open Sans', sans-serif;
+
+// ROBOTO Black 900
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap');
+$RB-b-900:'Roboto', sans-serif;
+
+// ROBOTO Regular 400 
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+$RR-400:'Roboto', sans-serif;
+
+// BOLD 700 Italic (LA NÎME’ALERIE)
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,700&display=swap');
+$B-700-Italic: 'Roboto', sans-serif;
+
+// ************************************************************
+//  MARGIN
+// ************************************************************
+
+$margin : 1rem;
+$margin-xxsmall : $margin * .125;
+$margin-xsmall : $margin * .25;
+$margin-small : $margin * .5;
+$margin-large : $margin * 2;
+$margin-xlarge : $margin * 4;
+$margin-xxlarge : $margin * 8;
+
+
+// ************************************************************
+//  MARGIN
+// ************************************************************
+
+$padding : 2rem;
+$padding-xxsmall : $padding * .125;
+$padding-xsmall : $padding * .25;
+$padding-small : $padding * .5;
+$padding-large : $padding * 2;
+$padding-xlarge : $padding * 4;
+$padding-xxlarge : $padding * 8;
+
